@@ -1,0 +1,4 @@
+Total: 960
+Correct Ones: 813
+Accuracy: 84.6875%
+Elapsed Time: 14.2685
